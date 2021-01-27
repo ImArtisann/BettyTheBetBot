@@ -3,4 +3,4 @@ A Discord bot to place bets on league of legends summoners games on wither they 
 
 # Commands
 
-## b!register
+### b!register
