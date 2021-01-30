@@ -29,6 +29,7 @@ The bot will only check to see if the summoner is currently in game every 5 mins
 1. +bet Teemo Fking 1,100, win 
 2. +bet Teemo Fking 1, 100,win 
 3. +bet Teemo Fking 1 ,100,win 
+
 ** As you can see in the wrong examples do not add a space before or after the commas **
 
 ## +profile
