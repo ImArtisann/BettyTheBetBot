@@ -16,10 +16,14 @@ A Discord bot to place bets on league of legends summoners games on whither they
 
 **How to use the bet command**
 > +bet [Summoner Name],[Bet Amount],[Win or Lose]
+
 ** Correct examples**
+
 1. +bet Teemo Fking 1,100,win 
 2  +bet Teemo Fking 1,100,lose
+
 ** Wrong Examples **
+
 1. +bet Teemo Fking 1,100, win 
 2. +bet Teemo Fking 1, 100,win 
 3. +bet Teemo Fking 1 ,100,win 
