@@ -34,7 +34,9 @@ A Discord bot to place bets on league of legends summoners games on whither they
 
 ## +lb
 > This command is to check the leaderboards of who has the the most LP, Most successful bets, and whos the worse gambler by checking the unsuccessful bets leaderboad
+
 ** Correct Examples **
+
 1. +lb economy (This will display the economy leaderboard)
 2. +lb wins (this will display the wins leaderboard)
 3. +lb loses (this will display the loses leaderboard)
