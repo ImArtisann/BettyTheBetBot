@@ -39,4 +39,7 @@ A Discord bot to place bets on league of legends summoners games on whither they
 `This command is to display all the active bets that you have going on currently`
 
 ## +broke
-`This command is only to be used if you have no active bets going on and that you balance on your profile is completely 0`
+> `This command is only to be used if you have no active bets going on and that you balance on your profile is completely 0
+
+## +lookup
+`
