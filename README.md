@@ -1,7 +1,9 @@
 # BettyTheBetBot
 A Discord bot to place bets on league of legends summoners games on whither they're going to win or not 
 
-** NOTE ** The bot will only check to see if the summoner is currently in game every 5 mins so if your friend finishes the game and the bot has not update you yet give it at lease 5 mins before @ me with an issue
+** NOTE ** 
+
+The bot will only check to see if the summoner is currently in game every 5 mins so if your friend finishes the game and the bot has not update you yet give it at lease 5 mins before @ me with an issue
 
 # Commands
 
